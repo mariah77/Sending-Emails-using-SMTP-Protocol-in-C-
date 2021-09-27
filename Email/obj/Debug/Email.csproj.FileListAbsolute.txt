@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\Email\Email\bin\Debug\Email.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Email\Email\bin\Debug\Email.exe
+c:\users\user\documents\visual studio 2017\Projects\Email\Email\bin\Debug\Email.pdb
+c:\users\user\documents\visual studio 2017\Projects\Email\Email\bin\Debug\EASendMail.dll
+c:\users\user\documents\visual studio 2017\Projects\Email\Email\obj\Debug\Email.csprojAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Email\Email\obj\Debug\Email.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\Email\Email\obj\Debug\Email.csproj.CopyComplete
+c:\users\user\documents\visual studio 2017\Projects\Email\Email\obj\Debug\Email.exe
+c:\users\user\documents\visual studio 2017\Projects\Email\Email\obj\Debug\Email.pdb
